@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166036542434",
+    "project_id": "mechanicalerp-1ffb7",
+    "storage_bucket": "mechanicalerp-1ffb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166036542434:android:551587c2a1f6c7c4a75fbb",
+        "android_client_info": {
+          "package_name": "com.example.mechanicalerp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166036542434-49ca8m5icj024qp1jrkksqfps9jb6mmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxeXu99WzvTErRwMvt8a4-naXcORpQyAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166036542434-49ca8m5icj024qp1jrkksqfps9jb6mmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
